@@ -1,13 +1,13 @@
-import { 
-  Github, 
-  Linkedin, 
-  Mail, 
-  ExternalLink, 
-  Code2, 
-  Terminal, 
-  Cpu, 
-  Globe 
-} from "lucide-react"; // Icons er jonno
+import {
+ Github,
+ Linkedin,
+ Mail,
+ ExternalLink,
+ Figma,
+ Palette,
+ Brain,
+ Code2
+} from "lucide-react";
 
 
 const info = {
