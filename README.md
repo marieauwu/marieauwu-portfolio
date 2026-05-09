@@ -1,4 +1,4 @@
-# Hi, I'm Marie 👋 
+# Hi, I'm Mariea 👋 
 ### UX/UI Designer & Frontend Developer
 
 I am a passionate designer and developer focused on creating clean, minimalist, and interactive digital experiences. Inspired by modern aesthetics, I bridge the gap between complex functionality and intuitive design.
