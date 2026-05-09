@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi, I'm Marie 👋 
+### UX/UI Designer & Frontend Developer
 
-## Getting Started
+I am a passionate designer and developer focused on creating clean, minimalist, and interactive digital experiences. Inspired by modern aesthetics, I bridge the gap between complex functionality and intuitive design.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🎨 About Me
+- 🔭 Currently working on my **Personal Portfolio**.
+- ⚡ Specialized in **UX/UI Design** and **Responsive Web Development**.
+- 🎨 Design Philosophy: *Minimalism with a touch of elegance.*
+- 🌱 Constantly learning new technologies like **Framer Motion** and **Next.js**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack & Tools
+| Design | Development |
+| :--- | :--- |
+| **Figma** (UI/UX) | **HTML5 & CSS3** |
+| **Visual Hierarchy** | **Bootstrap** |
+| **Color Theory** | **JavaScript** (Basics) |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📂 Featured Projects
+### 1. Personal Portfolio 
+A modern portfolio inspired by Christian Ortiz, featuring smooth animations and a premium dark/light interface.
+- **Tech:** HTML, CSS, Bootstrap, JavaScript.
+- **Goal:** To showcase my design journey and technical skills.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌈 Color Palette (Inspo: Royal Purple)
+My current portfolio uses a custom palette inspired by my personal style:
+- **Primary:** `#3B1C5A` (Deep Royal Purple)
+- **Accent:** `#D9A01C` (Warm Gold)
+- **Background:** `#F8F9FA` (Soft White) / `#121212` (Matte Black)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📫 Connect with me
+- 📧 Email: [Your Email Here]
+- 🌐 Website: [Your Portfolio Link]
+- 💼 LinkedIn: [Your Profile Link]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*“Design is not just what it looks like and feels like. Design is how it works.”*
