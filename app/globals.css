@@ -1,48 +1,40 @@
 @import "tailwindcss";
 
+/*custom variables*/
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
-}
-:root {
-  --background: #0f172a;
+  --background: #0f172a; 
   --foreground: #f8fafc; 
   --primary-purple: #3b1c5a; 
   --accent-gold: #d9a01c;
   --muted: #94a3b8;
 }
 
+/* basic style */
 body {
   background-color: var(--background);
   color: var(--foreground);
-  font-family: 'Inter', sans-serif; 
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* side scroll stop? */
 }
 
-/* বড় টাইপোগ্রাফি ইফেক্ট */
+/* --- typography--- */
 h1 {
   font-size: clamp(3rem, 8vw, 6rem); 
   font-weight: 900;
-  letter-spacing: -2px;
-  line-height: 1;
+  letter-spacing: -3px; /* for tight look */
+  line-height: 0.9;
   margin-bottom: 2rem;
+}
+
+/* smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* custom selection color */
+::selection {
+  background-color: var(--primary-purple);
+  color: white;
 }
