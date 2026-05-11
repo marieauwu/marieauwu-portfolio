@@ -1,7 +1,6 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  output: 'export', // স্ট্যাটিক বিল্ডের জন্য
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export', // এটি GitHub Pages-এর জন্য মাস্ট
   basePath: '/marieauwu-portfolio',
   assetPrefix: '/marieauwu-portfolio/',
   images: {
